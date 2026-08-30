@@ -1,6 +1,6 @@
-# PyEdit
+# Kalonji
 
-PyEdit is a lightweight desktop notebook application for writing and running Python code locally.
+Kalonji is a lightweight desktop notebook application for writing and running Python code locally.
 
 ## Features
 
