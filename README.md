@@ -11,7 +11,7 @@
 
 [![Latest Release](https://img.shields.io/github/v/release/bioinfoguru/pyedit-exe?label=download&color=9c51e0)](https://github.com/bioinfoguru/pyedit-exe/releases/latest)
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/bioinfoguru/pyedit-exe/releases/latest)
-[![License](https://img.shields.io/github/license/bioinfoguru/pyedit-exe?color=9c51e0)](https://github.com/bioinfoguru/pyedit-exe/blob/main/LICENSE)
+[![License: MIT](https://img.shields.io/badge/license-MIT-9c51e0.svg)](https://github.com/bioinfoguru/pyedit-exe/blob/main/LICENSE)
 
 **[⬇️ Download the latest release](https://github.com/bioinfoguru/pyedit-exe/releases/latest)** · **[🌐 Website](https://bioinfo.guru/kalonji)** · **[💬 Contact us](https://bioinfo.guru/kalonji/contact)**
 
@@ -63,16 +63,12 @@ plt.show()
 | `Ctrl+Shift+P` | Pause / resume AI completion |
 | `Esc` | Clear the ghost suggestion |
 
-## 💾 Where your stuff lives
-
-- **API keys** — encrypted at `%APPDATA%\kalonji.bioinfo.guru\ai\ai_keys.json`
-- **Settings** — `settings.json` right next to it
-
 ## 🔗 Links
 
 - 🌐 **Website & download gate** — <https://bioinfo.guru/kalonji>
 - 💬 **Questions, bugs, feature requests** — <https://bioinfo.guru/kalonji/contact>
 - 📦 **Source code** — <https://github.com/bioinfoguru/pyedit>
+- 📄 **License (MIT)** — <https://github.com/bioinfoguru/pyedit-exe/blob/main/LICENSE>
 - 🏷️ **All releases** — <https://github.com/bioinfoguru/pyedit-exe/releases>
 
 ---
