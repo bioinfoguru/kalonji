@@ -1,7 +1,5 @@
 <div align="center">
 
-<img src="https://bioinfo.guru/kalonji/logo.svg" alt="Kalonji logo" width="140" />
-
 <img src="https://bioinfo.guru/kalonji/kalonji-wordmark.svg" alt="Kalonji" width="300" />
 <!-- "Kalonji" above is rendered in Uncial Antiqua — the same Google Font used in the app — embedded inside the SVG as a base64 data URI (GitHub strips external fonts, but data URIs render inside SVG-as-image). -->
 <!-- To regenerate/refresh: node scripts/make-wordmark.cjs, then npm run deploy in website/ -->
