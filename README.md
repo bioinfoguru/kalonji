@@ -1,5 +1,7 @@
 <div align="center">
 
+<img src="https://bioinfo.guru/kalonji/logo.svg" alt="Kalonji logo" width="140" />
+
 <img src="https://bioinfo.guru/kalonji/kalonji-wordmark.svg" alt="Kalonji" width="300" />
 <!-- "Kalonji" above is rendered in Uncial Antiqua — the same Google Font used in the app — embedded inside the SVG as a base64 data URI (GitHub strips external fonts, but data URIs render inside SVG-as-image). -->
 <!-- To regenerate/refresh: node scripts/make-wordmark.cjs, then npm run deploy in website/ -->
@@ -8,11 +10,11 @@
 
 **No browser. No server. No friction. Just Python.**
 
-[![Latest Release](https://img.shields.io/github/v/release/bioinfoguru/pyedit-exe?label=download&color=9c51e0)](https://github.com/bioinfoguru/pyedit-exe/releases/latest)
-[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/bioinfoguru/pyedit-exe/releases/latest)
-[![License: MIT](https://img.shields.io/badge/license-MIT-9c51e0.svg)](https://github.com/bioinfoguru/pyedit-exe/blob/main/LICENSE)
+[![Latest Release](https://img.shields.io/github/v/release/bioinfoguru/kalonji?label=download&color=9c51e0)](https://github.com/bioinfoguru/kalonji/releases/latest)
+[![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/bioinfoguru/kalonji/releases/latest)
+[![License: MIT](https://img.shields.io/badge/license-MIT-9c51e0.svg)](https://github.com/bioinfoguru/kalonji/blob/main/LICENSE)
 
-**[⬇️ Download the latest release](https://github.com/bioinfoguru/pyedit-exe/releases/latest)** · **[🌐 Website](https://bioinfo.guru/kalonji)** · **[💬 Contact us](https://bioinfo.guru/kalonji/contact)**
+**[⬇️ Download the latest release](https://github.com/bioinfoguru/kalonji/releases/latest)** · **[🌐 Website](https://bioinfo.guru/kalonji)** · **[💬 Contact us](https://bioinfo.guru/kalonji/contact)**
 
 </div>
 
@@ -40,7 +42,7 @@ Open it. Pick your Python. Start coding. That's the whole onboarding.
 
 ## 🚀 Get started in 30 seconds
 
-1. **[Download](https://github.com/bioinfoguru/pyedit-exe/releases/latest)** the installer for your platform (`.exe` / `.msi` for Windows, `.AppImage` / `.deb` for Linux, `.dmg` for macOS)
+1. **[Download](https://github.com/bioinfoguru/kalonji/releases/latest)** the installer for your platform (`.exe` / `.msi` for Windows, `.AppImage` / `.deb` for Linux, `.dmg` for macOS)
 2. Launch Kalonji, open an existing `.ipynb` — or start a fresh one
 3. In the sidebar, pick your **Python kernel** and click **Start**
 4. Write Python in a cell, hit **`Shift+Enter`**, and watch it run
@@ -67,8 +69,8 @@ plt.show()
 - 🌐 **Website & download gate** — <https://bioinfo.guru/kalonji>
 - 💬 **Questions, bugs, feature requests** — <https://bioinfo.guru/kalonji/contact>
 - 📦 **Source code** — <https://github.com/bioinfoguru/pyedit>
-- 📄 **License (MIT)** — <https://github.com/bioinfoguru/pyedit-exe/blob/main/LICENSE>
-- 🏷️ **All releases** — <https://github.com/bioinfoguru/pyedit-exe/releases>
+- 📄 **License (MIT)** — <https://github.com/bioinfoguru/kalonji/blob/main/LICENSE>
+- 🏷️ **All releases** — <https://github.com/bioinfoguru/kalonji/releases>
 
 ---
 
