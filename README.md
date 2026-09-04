@@ -37,6 +37,7 @@ Open it. Pick your Python. Start coding. That's the whole onboarding.
 | 🪶 **Feather-light** | Under 10 MB. Starts instantly. Sips battery, not RAM |
 | 🌙 **Offline-first, dark theme** | Works on a plane. Looks good doing it |
 | 🤖 **AI code completion** | Ghost-text suggestions as you type — pause with `Ctrl+Shift+P` |
+| 💬 **AI chat** | Hit an error? Click **Ask AI** on the traceback for an explanation + fix, then follow up in the sidebar chat |
 
 ## 🚀 Get started in 30 seconds
 
@@ -61,6 +62,7 @@ plt.show()
 | `Tab` | Accept AI ghost-text suggestion |
 | `Ctrl+Shift+P` | Pause / resume AI completion |
 | `Esc` | Clear the ghost suggestion |
+| `Ctrl+=` / `Ctrl+-` | Zoom UI in / out (100–130%) |
 
 ## 🔗 Links
 
