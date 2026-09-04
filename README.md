@@ -68,7 +68,6 @@ plt.show()
 
 - 🌐 **Website & download gate** — <https://bioinfo.guru/kalonji>
 - 💬 **Questions, bugs, feature requests** — <https://bioinfo.guru/kalonji/contact>
-- 📦 **Source code** — <https://github.com/bioinfoguru/pyedit>
 - 📄 **License (MIT)** — <https://github.com/bioinfoguru/kalonji/blob/main/LICENSE>
 - 🏷️ **All releases** — <https://github.com/bioinfoguru/kalonji/releases>
 
