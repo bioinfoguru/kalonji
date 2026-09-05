@@ -38,6 +38,7 @@ Open it. Pick your Python. Start coding. That's the whole onboarding.
 | 🌙 **Offline-first, dark theme** | Works on a plane. Looks good doing it |
 | 🤖 **AI code completion** | Ghost-text suggestions as you type — pause with `Ctrl+Shift+P` |
 | 💬 **AI chat** | Hit an error? Click **Ask AI** on the traceback for an explanation + fix, then follow up in the sidebar chat |
+| 🎛️ **Widgets** | `+ Widget` cells (dropdown / toggle / file / slider) bound to kernel variables — edits push live, no Run needed; rename cleans the old name |
 
 ## 🚀 Get started in 30 seconds
 
@@ -63,6 +64,7 @@ plt.show()
 | `Ctrl+Shift+P` | Pause / resume AI completion |
 | `Esc` | Clear the ghost suggestion |
 | `Ctrl+=` / `Ctrl+-` | Zoom UI in / out (100–130%) |
+| `Shift+Tab` | Signature help at a call (Jedi) |
 
 ## 🔗 Links
 
