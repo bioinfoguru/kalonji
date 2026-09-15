@@ -12,7 +12,7 @@
 [![Platform](https://img.shields.io/badge/platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)](https://github.com/bioinfoguru/kalonji/releases/latest)
 [![License: MIT](https://img.shields.io/badge/license-MIT-9c51e0.svg)](https://github.com/bioinfoguru/kalonji/blob/main/LICENSE)
 
-**[⬇️ Download the latest release](https://github.com/bioinfoguru/kalonji/releases/latest)** · **[🌐 Website](https://bioinfo.guru/kalonji)** · **[💬 Contact us](https://bioinfo.guru/kalonji/contact)**
+**[⬇️ Download the latest release](https://github.com/bioinfoguru/kalonji/releases/latest)** · **[🌐 Website](https://kalonji.bioinfo.guru)** · **[💬 Contact us](https://bioinfo.guru/kalonji/contact)**
 
 </div>
 
